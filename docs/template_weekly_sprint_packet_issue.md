@@ -12,7 +12,7 @@ Sprint 0
 
 **Repository**
 
-[[Add your GitHub repository link](https://github.com/CapstoneDesign-Spring2026-UlsanCollege/ai-campus-helper)]
+[[GitHub repository link](https://github.com/CapstoneDesign-Spring2026-UlsanCollege/ai-campus-helper)]
 
 **PM for this Sprint**
 
