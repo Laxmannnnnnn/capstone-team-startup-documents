@@ -2,7 +2,7 @@
 
 ## Team
 
-**LKURB**
+**Team Name**
 
 AI Campus Innovators
 
@@ -16,21 +16,22 @@ AI Campus Innovators
 
 **Repository (if created)**
 
-[Add your GitHub repository link]
+[[GitHub repository link](https://github.com/CapstoneDesign-Spring2026-UlsanCollege/ai-campus-helper)]
 
 ---
 
 # 1. Project Title
 
-Smart Student Attendance System
+Smart Campus Assistant App
 
 ---
 
 # 2. Problem
 
-Many teachers still track attendance manually, which takes time and can lead to mistakes.  
-Students also cannot easily check their attendance status during the semester.  
-A digital attendance system would make attendance tracking faster, more accurate, and easier to manage.
+Students often struggle to find important campus information quickly.  
+Class schedules, building locations, food menus, and campus events are usually spread across different systems or websites.  
+This makes it difficult for students to get the information they need quickly.  
+A single application that organizes all this information in one place would make campus life easier.
 
 ---
 
@@ -38,51 +39,55 @@ A digital attendance system would make attendance tracking faster, more accurate
 
 The main users of the system are:
 
-- Teachers who need to record attendance
-- Students who want to check their attendance records
-- School administrators who manage student data
+- College students
+- New students who are unfamiliar with the campus
+- Faculty members who want to check schedules or events
 
 ---
 
 # 4. What the System Will Do
 
-The system will allow teachers to record attendance digitally through a web interface.  
-Students will be able to view their attendance records through their dashboard.  
-The system will store attendance data in a database and display reports.
+The system will provide a single web or mobile application where students can access important campus information.  
+Users will be able to view their class schedule, find campus buildings, check food menus, and receive event notifications.  
+The app will also include an AI assistant that can answer simple campus-related questions.
 
 ---
 
 # 5. Core Features (First Version)
 
-- User login system for teachers and students
-- Teacher attendance marking page
-- Student attendance dashboard
-- Attendance data stored in a database
-- Simple attendance report view
+- View class schedules
+- Navigate campus buildings with a simple map
+- Get assignment reminders
+- Check cafeteria food menus
+- Ask questions to an AI assistant
 
 ---
 
 # 6. Demo Scenario
 
 Step 1  
-User opens the website login page.
+User opens the Smart Campus Assistant app.
 
 Step 2  
-Teacher logs in to the system.
+User logs in and sees their class schedule on the dashboard.
 
 Step 3  
-Teacher marks attendance for students.
+User searches for a campus building and views its location.
 
 Step 4  
-Student logs in and views their attendance record on the dashboard.
+User asks the AI assistant a question like  
+"Where is the IT building?"
+
+Step 5  
+The system provides the correct location and information.
 
 ---
 
 # 7. Minimum Viable Product (MVP)
 
-The MVP will include a simple web system where teachers can log in and mark attendance for students.  
-The attendance will be saved in a database and students will be able to log in and view their attendance record.  
-This basic system will demonstrate the core functionality of digital attendance management.
+The MVP will be a simple web application where students can log in and view their class schedule, campus building information, and cafeteria menu.  
+The system will also include a basic AI chatbot that answers common campus questions.  
+This version will demonstrate the main idea of a centralized campus assistant.
 
 ---
 
@@ -93,23 +98,25 @@ This basic system will demonstrate the core functionality of digital attendance 
 | Frontend | HTML, CSS, JavaScript |
 | Backend | Node.js / Express |
 | Database | MySQL |
-| Hosting | GitHub + Local Server |
+| Hosting | GitHub / Local Server |
 
 ---
 
 # 9. Risks or Unknowns
 
-- Learning backend integration with the database
-- Managing authentication and login security
-- Ensuring the system correctly stores and retrieves attendance data
+- Integrating an AI assistant into the application
+- Managing campus location and map data
+- Collecting accurate campus information such as schedules and menus
 
 ---
 
 # 10. Scope Check
 
-- [x] Demoable
-- [x] Feasible
-- [x] Well scoped
+- [x] Demoable  
+- [x] Feasible  
+- [x] Well scoped  
+
+This project focuses on building a simple campus information system with an AI assistant that can be demonstrated within one semester.
 
 ---
 
