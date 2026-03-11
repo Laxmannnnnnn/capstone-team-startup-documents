@@ -20,7 +20,7 @@ AI Campus Innovators
 
 **Repository**
 
-[[Add your GitHub repository link here](https://github.com/CapstoneDesign-Spring2026-UlsanCollege/ai-campus-helper)]
+[[GitHub repository link here](https://github.com/CapstoneDesign-Spring2026-UlsanCollege/ai-campus-helper)]
 
 **Members**
 
