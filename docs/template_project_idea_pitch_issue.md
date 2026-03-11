@@ -1,212 +1,115 @@
-<!--
-TEMPLATE - Project Idea Pitch Issue
-
-How to use this template:
-
-1. One team member creates this Issue.
-2. The team fills in all sections together.
-3. Keep answers short and clear.
-4. Link this Issue in your Sprint Packet if the idea changes later.
-
-Purpose:
-- Help the instructor review project ideas early
-- Make sure the project is demoable, feasible, and well scoped
--->
-
 # Project Idea Pitch
 
 ## Team
 
-**Team Name**
+**LKURB**
 
-[Team name]
+AI Campus Innovators
 
 **Members**
 
-- [Member 1]
-- [Member 2]
-- [Member 3]
-- [Member 4]
+- Laxman Bhattarai
+- Kushal Kharka
+- Bibek Kunwar
+- Ujwol Upreti
+- Rajim Danwar
 
 **Repository (if created)**
 
-[GitHub repository link]
-
+[Add your GitHub repository link]
 
 ---
 
 # 1. Project Title
 
-[Short project title]
-
-Example:
-
-Campus Study Room Finder
-
+Smart Student Attendance System
 
 ---
 
 # 2. Problem
 
-Describe the **real problem** your project solves.
-
-Focus on a situation someone experiences.
-
-Example:
-
-> Students often struggle to find available study rooms on campus. Rooms may be empty but still marked as reserved.
-
-Your answer:
-
-[2-4 sentences]
-
+Many teachers still track attendance manually, which takes time and can lead to mistakes.  
+Students also cannot easily check their attendance status during the semester.  
+A digital attendance system would make attendance tracking faster, more accurate, and easier to manage.
 
 ---
 
 # 3. Target Users
 
-Who will use this system?
+The main users of the system are:
 
-Examples:
-
-- students
-- teachers
-- small businesses
-- mobile users
-
-Your users:
-
-[Describe the main users]
-
+- Teachers who need to record attendance
+- Students who want to check their attendance records
+- School administrators who manage student data
 
 ---
 
 # 4. What the System Will Do
 
-Explain **what the system will allow users to do**.
-
-Example:
-
-> Users can see available study rooms and reserve them for a time slot.
-
-Your description:
-
-[2-4 sentences]
-
+The system will allow teachers to record attendance digitally through a web interface.  
+Students will be able to view their attendance records through their dashboard.  
+The system will store attendance data in a database and display reports.
 
 ---
 
 # 5. Core Features (First Version)
 
-List **3-5 key features**.
-
-These should be realistic to build in one semester.
-
-Example:
-
-- View available rooms
-- Reserve a room
-- Cancel reservation
-- Show room schedule
-
-Your features:
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- [Feature 4]
-- [Feature 5]
+- User login system for teachers and students
+- Teacher attendance marking page
+- Student attendance dashboard
+- Attendance data stored in a database
+- Simple attendance report view
 
 ---
 
 # 6. Demo Scenario
 
-Describe **exactly what will happen during your demo**.
-
-Example:
-
 Step 1  
-User opens the website.
+User opens the website login page.
 
 Step 2  
-User views available study rooms.
+Teacher logs in to the system.
 
 Step 3  
-User reserves a room.
+Teacher marks attendance for students.
 
 Step 4  
-Reservation appears on the schedule.
-
-Your demo:
-
-Step 1:
-Step 2:
-Step 3:
-Step 4:
-
+Student logs in and views their attendance record on the dashboard.
 
 ---
 
 # 7. Minimum Viable Product (MVP)
 
-Describe the **smallest version of your system that still works**.
-
-Your MVP should:
-
-- demonstrate the core idea
-- be easy to demo
-- be achievable early in the semester
-
-Your MVP:
-
-[Describe the smallest working version]
-
+The MVP will include a simple web system where teachers can log in and mark attendance for students.  
+The attendance will be saved in a database and students will be able to log in and view their attendance record.  
+This basic system will demonstrate the core functionality of digital attendance management.
 
 ---
 
 # 8. Technology Plan
 
-List the tools you expect to use.
-
 | Area | Tool |
 | --- | --- |
-| Frontend | |
-| Backend | |
-| Database | |
-| Hosting | |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js / Express |
+| Database | MySQL |
+| Hosting | GitHub + Local Server |
 
 ---
 
 # 9. Risks or Unknowns
 
-List anything that might make the project difficult.
-
-Examples:
-
-- new technology
-- unclear requirements
-- integration challenges
-
-Your risks:
-
-- [Risk 1]
-- [Risk 2]
-- [Risk 3]
+- Learning backend integration with the database
+- Managing authentication and login security
+- Ensuring the system correctly stores and retrieves attendance data
 
 ---
 
 # 10. Scope Check
 
-Confirm that your project is:
-
-- [ ] Demoable  
-- [ ] Feasible  
-- [ ] Well scoped  
-
-If any of these are uncertain, explain:
-
-[short explanation]
-
+- [x] Demoable
+- [x] Feasible
+- [x] Well scoped
 
 ---
 
